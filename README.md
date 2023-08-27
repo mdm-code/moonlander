@@ -1,2 +1,1 @@
-# moonlander
-Moonlander keyboard configuration repository.
+# Moonlander keyboard configuration repository
